@@ -2,62 +2,60 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
 
+
 main {
-    width: 100vw;
-    height: 100vh;
+   width: 100vw;
+   height: 100vh;
 }
 
 
 .Dubai {
 
-    width: 350px;
-    height: 250px;
-    display: block;
-    position: relative;
-    left: 30px;
-    background-image: url('https://q-cf.bstatic.com/images/hotel/max1024x768/206/206013993.jpg');
-    background-size: cover;
-    background-color:rgba(0, 0, 255, 0.8);
-    margin-bottom: 5px;
+   width: 350px;
+   height: 250px;
+   display: block;
+   position: relative;
+   left: 30px;
+   background-image: url('https://lh4.googleusercontent.com/proxy/di8yvOZZK4Cp32N4feVHC3o_gv4W8ET_-9BDqwkq-Or_mssZHH1D0_60g7AlPOcGTh3upzWKLeWNEiiBj7yKUJ-vyDQZ3oydCFlEN9W_Ope8bXAvVEU7grZmZ0ZhUb1FNNnWpauR5oSj1KHqs8cBsYLTtFQNonXj1KXx3jrfMDnf=w370-h253-n-k-no');
+   background-size: cover;
+   background-color:rgba(0, 0, 255, 0.8);
+   margin-bottom: 5px;
+
 }
 
 h1 {
 color: white;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-family: 'Ultra', serif;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   font-family: 'Ultra', serif;
 }
 
+div {
+    opacity: 0.8
+}
 .LA {
-    width: 350px;
-    height: 250px;
-    display: block;
-    position: relative;
-    left:30px;
-    background-image: url(https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_1320/https://www.viaggi-usa.it/wp-content/uploads/2014/06/Dove-dormire-a-Los-Angeles.jpg);
+   width: 350px;
+   height: 250px;
+   display: block;
+   position: relative;
+   left:30px;
+   background-image: url('https://lh3.googleusercontent.com/proxy/QUc0Av-E97KdTWHsNYxWu6OgRPnwMZKrU5wjM80U4zYVzQ3c6Bikx5lAMYAjQ29IH6SrzlodsSFdMgcubfR2A1AdMsU0MF_dp1TdSF4hPvwXgP_nv-iO5dszxnKK9mIjJaoEk5Le-28I1XG6Annd_n_OauOJ1fDXiLDWnCQW5ipa=w370-h253-n-k-no');
 
-    background-size: cover;
-    margin-bottom: 5px;
+   background-size: cover;
+   margin-bottom: 5px;
+
 }
 
 .Tokyo {
-    width: 350px;
-    height: 250px;
-    display: block;
-    position: relative;
-    left: 30px;
-    background-image: url('https://lh4.googleusercontent.com/proxy/51KeJAzuKmGlkoiI33AstxDWqIi370KRKBcAprJ-oowfUEVB2we9BZpSSokKU6cb293FRCzjPBDqniUR7ywZI_Exe6SyBm6oiUGQbSmEWSgcriTb2lYk4gAalj1_XLL3to5dEjn_vTioPPUwfdD1xCV1iwmwKAKfTJDRn9Ojj7FH=w370-h253-n-k-no');
+   width: 350px;
+   height: 250px;
+   display: block;
+   position: relative;
+   left: 30px;
+   background-image: url('https://lh4.googleusercontent.com/proxy/51KeJAzuKmGlkoiI33AstxDWqIi370KRKBcAprJ-oowfUEVB2we9BZpSSokKU6cb293FRCzjPBDqniUR7ywZI_Exe6SyBm6oiUGQbSmEWSgcriTb2lYk4gAalj1_XLL3to5dEjn_vTioPPUwfdD1xCV1iwmwKAKfTJDRn9Ojj7FH=w370-h253-n-k-no');
 
-    background-size: cover;
-    background-color: (255,0,0,0.5)
-
-
-}
-
-
-}
+   background-size: cover;}
