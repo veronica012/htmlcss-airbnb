@@ -5,20 +5,59 @@
 
 }
 
+main {
+    width: 100vw;
+    height: 100vh;
+}
+
 
 .Dubai {
 
-    width: 450px;
-    height: 350px;
+    width: 350px;
+    height: 250px;
     display: block;
     position: relative;
+    left: 30px;
     background-image: url('https://q-cf.bstatic.com/images/hotel/max1024x768/206/206013993.jpg');
     background-size: cover;
+    background-color:rgba(0, 0, 255, 0.8);
+    margin-bottom: 5px;
 }
+
 h1 {
 color: white;
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+    font-family: 'Ultra', serif;
+}
+
+.LA {
+    width: 350px;
+    height: 250px;
+    display: block;
+    position: relative;
+    left:30px;
+    background-image: url(https://cdn.shortpixel.ai/client/q_lossy,ret_img,w_1320/https://www.viaggi-usa.it/wp-content/uploads/2014/06/Dove-dormire-a-Los-Angeles.jpg);
+
+    background-size: cover;
+    margin-bottom: 5px;
+}
+
+.Tokyo {
+    width: 350px;
+    height: 250px;
+    display: block;
+    position: relative;
+    left: 30px;
+    background-image: url('https://lh4.googleusercontent.com/proxy/51KeJAzuKmGlkoiI33AstxDWqIi370KRKBcAprJ-oowfUEVB2we9BZpSSokKU6cb293FRCzjPBDqniUR7ywZI_Exe6SyBm6oiUGQbSmEWSgcriTb2lYk4gAalj1_XLL3to5dEjn_vTioPPUwfdD1xCV1iwmwKAKfTJDRn9Ojj7FH=w370-h253-n-k-no');
+
+    background-size: cover;
+    background-color: (255,0,0,0.5)
+
+
+}
+
+
 }
